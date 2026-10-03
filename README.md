@@ -9,19 +9,12 @@ An interactive Mobile Sales Dashboard developed using Microsoft Power BI to anal
 - DAX
 - Data Visualization
 
-## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
 ## Key Features
 - Interactive sales performance analysis
 - Revenue and quantity tracking
 - Sales trends and comparisons
 - Product and customer insights
 - Interactive filters and slicers
-
-## Project Files
-- `Mobiles Sales Dashboard.pbix` – Power BI dashboard file
-- `screenshots/` – Dashboard screenshots
 
 ## How to Use
 1. Clone or download this repository.
